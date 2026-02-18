@@ -1,4 +1,4 @@
 node_modules/
-.env
 .DB_Store
 *.log
+config.bat
